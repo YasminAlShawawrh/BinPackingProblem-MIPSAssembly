@@ -1,0 +1,8 @@
+Total bins used: 3
+
+item 1 in bin1 
+item 2 in bin2 
+item 3 in bin2 
+item 4 in bin1 
+item 5 in bin3 
+item 6 in bin3 
